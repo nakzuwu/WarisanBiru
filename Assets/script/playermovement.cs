@@ -7,6 +7,8 @@ using UnityEngine.InputSystem;
 public class playermovement : MonoBehaviour
 {
     Vector2 movement;
+    Vector2 keyboardInput;
+    public VariableJoystick variableJoystick;
     public float speed =15;
     private Rigidbody2D rb;
     Animator animator;
@@ -30,11 +32,20 @@ public class playermovement : MonoBehaviour
     private void FixedUpdate()
     {
         InputMovement();
+        
     }
 
     public void Move(InputAction.CallbackContext context)
     {
-        movement = context.ReadValue<Vector2>().normalized;
+        keyboardInput = context.ReadValue<Vector2>().normalized;
+        
+        
+    }
+
+    private void InputMovement()
+    {
+        Vector2 direction = Vector2.up * variableJoystick.Vertical + Vector2.right * variableJoystick.Horizontal;
+        movement = direction != Vector2.zero? direction.normalized : keyboardInput;
         if (movement != Vector2.zero)
         {
             animator.SetBool("ismove", true);
@@ -45,12 +56,8 @@ public class playermovement : MonoBehaviour
         {
             animator.SetBool("ismove", false);
         }
-        
-    }
-
-    private void InputMovement()
-    {
         Vector2 targetVelocity = new Vector2(movement.x * speed, movement.y * speed);
         rb.velocity = targetVelocity;
     }
+    
 }
