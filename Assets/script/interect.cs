@@ -4,10 +4,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+
 public class interect : MonoBehaviour
 {
     public float radius = 0.2f;
     public Button interactButton;
+    public dialogController dialogController;
+    public int playerID;
+    private bool hasDetectedPlayer = false;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -23,13 +28,18 @@ public class interect : MonoBehaviour
     void DetectPlayer()
     {
         Collider2D hit = Physics2D.OverlapCircle(transform.position, radius, LayerMask.GetMask("player"));
-        if (hit != null && hit.CompareTag("Player"))
+    
+        if (hit != null && hit.CompareTag("Player") && !hasDetectedPlayer)
         {
             interactButton.interactable = true;
+            interactButton.onClick.AddListener(() => dialogController.OnDialogueTrigger(playerID));
+            hasDetectedPlayer = true;
         }
-        else
+        else if (hit == null && hasDetectedPlayer)
         {
             interactButton.interactable = false;
+            interactButton.onClick.RemoveListener(() => dialogController.OnDialogueTrigger(playerID));
+            hasDetectedPlayer = false;
         }
     }
 
