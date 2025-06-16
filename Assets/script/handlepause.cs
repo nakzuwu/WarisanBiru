@@ -47,7 +47,7 @@ public class handlepause : MonoBehaviour
     {
         for (int i = 0; i < playerControl.transform.childCount; i++)
         {
-            playerControl.transform.GetChild(i).gameObject.SetActive(true);
+            //playerControl.transform.GetChild(i).gameObject.SetActive(true);
         }
         dialogBox.SetActive(false);
     }

@@ -1,11 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Assertions.Must;
+using UnityEngine.SceneManagement;
 
 public class ScoringSystem : MonoBehaviour
 {
     public SOsavedData savedData;
     public int Level;
+    public handlepause handlepause;
+    public bool PuzzleEnabled;
     
     // Start is called before the first frame update
     void Start()
@@ -19,6 +23,19 @@ public class ScoringSystem : MonoBehaviour
         
     }
 
+    private void OpenPuzzle()
+    {
+        handlepause.CloseDialogue();
+        Camera MainCamera = Camera.main;
+        if (MainCamera != null)
+        {
+            MainCamera.enabled = false;
+        }
+        SceneManager.LoadScene("puzzle", LoadSceneMode.Additive);
+        GameObject.Find("PuzzleController").GetComponent<PuzzleController>().level = Level;
+        PuzzleEnabled = true;
+    }
+
     public void AddScore(int index)
     {
         savedData.lvlScores[Level].quizPoint[index] = true;
@@ -30,7 +47,7 @@ public class ScoringSystem : MonoBehaviour
                 score++;
                 if (score==savedData.lvlScores[Level].quizPoint.Length)
                 {
-                    Debug.Log("Game Finished");
+                    OpenPuzzle();
                 }
             }
         }

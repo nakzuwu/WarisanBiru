@@ -612,7 +612,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 335876758}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.60391617, y: -5.05099, z: -10}
+  m_LocalPosition: {x: -1.3088865, y: -5.0510397, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2000,6 +2000,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   savedData: {fileID: 11400000, guid: 486cbbe4cb08af3498caa8ca8afb0720, type: 2}
   Level: 0
+  handlepause: {fileID: 928234808}
+  PuzzleEnabled: 0
 --- !u!1 &1134247094
 GameObject:
   m_ObjectHideFlags: 0

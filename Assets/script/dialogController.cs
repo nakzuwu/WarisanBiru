@@ -19,18 +19,6 @@ public class dialogController : MonoBehaviour
     
     private int currentDialog = 0;
     private int dialogIndex = 0;
-    
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     public void OnDialogueTrigger(int id)
     {
