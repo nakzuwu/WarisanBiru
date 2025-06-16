@@ -12,13 +12,13 @@ public class dialogController : MonoBehaviour
     public TextMeshProUGUI npcName;
     public Button[] options;
     public GameObject playerController;
+    public ScoringSystem scoreSystem;
 
     [Header("Dialogue")]
     public List<DialogContainer> DialogContainers;
     
     private int currentDialog = 0;
     private int dialogIndex = 0;
-    
     
     // Start is called before the first frame update
     void Start()
@@ -34,13 +34,16 @@ public class dialogController : MonoBehaviour
 
     public void OnDialogueTrigger(int id)
     {
-        dialogIndex = id;
-        currentDialog = 0;
-        npcName.text = DialogContainers[dialogIndex].namaNPC;
-        dialogBox.text = DialogContainers[dialogIndex].dialogContent[currentDialog];
-        for (int i = 0; i < options.Length; i++)
+        if (!scoreSystem.savedData.lvlScores[scoreSystem.Level].quizPoint[id])
         {
-            options[i].gameObject.SetActive(false);
+            dialogIndex = id;
+            currentDialog = 0;
+            npcName.text = DialogContainers[dialogIndex].namaNPC;
+            dialogBox.text = DialogContainers[dialogIndex].dialogContent[currentDialog];
+            for (int i = 0; i < options.Length; i++)
+            {
+                options[i].gameObject.SetActive(false);
+            }
         }
     }
 
@@ -65,8 +68,9 @@ public class dialogController : MonoBehaviour
     public void Corrections(int choiceOption)
     {
         if (DialogContainers[dialogIndex].option == choiceOption)
-        {
+        {   
             Debug.Log("benar yey");
+            scoreSystem.AddScore(dialogIndex);
             for (int i = 0; i < playerController.transform.childCount; i++)
             {
                 playerController.transform.GetChild(i).gameObject.SetActive(true);
