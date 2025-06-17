@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.Assertions.Must;
 using UnityEngine.SceneManagement;
@@ -10,11 +11,12 @@ public class ScoringSystem : MonoBehaviour
     public int Level;
     public handlepause handlepause;
     public bool PuzzleEnabled;
+    public TextMeshProUGUI ScoreText;
     
     // Start is called before the first frame update
     void Start()
     {
-        
+        ScoreText.text = 0 + "/" + savedData.lvlScores[Level].quizPoint.Length.ToString();
     }
 
     // Update is called once per frame
@@ -45,6 +47,7 @@ public class ScoringSystem : MonoBehaviour
             if (savedData.lvlScores[Level].quizPoint[i])
             {
                 score++;
+                ScoreText.text = score.ToString() + "/" + savedData.lvlScores[Level].quizPoint.Length.ToString();
                 if (score==savedData.lvlScores[Level].quizPoint.Length)
                 {
                     OpenPuzzle();

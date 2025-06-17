@@ -23,8 +23,16 @@ MonoBehaviour:
     - {fileID: 21300000, guid: 5c5b2c95472d06341aeb802d949cb2fa, type: 3}
     - {fileID: 21300000, guid: 7b3a4f44c4d06ab43b69d29328f63ec1, type: 3}
     - {fileID: 21300000, guid: 8946acd6d0b0ae24597b1d9c0ba7e9d2, type: 3}
-  - pieces: []
-    background: []
+  - pieces:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    background:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
   - pieces: []
     background: []
   - pieces: []
