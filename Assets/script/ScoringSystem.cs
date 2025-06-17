@@ -34,8 +34,14 @@ public class ScoringSystem : MonoBehaviour
             MainCamera.enabled = false;
         }
         SceneManager.LoadScene("puzzle", LoadSceneMode.Additive);
-        GameObject.Find("PuzzleController").GetComponent<PuzzleController>().level = Level;
         PuzzleEnabled = true;
+        StartCoroutine(ApplyLevel());
+    }
+
+    private IEnumerator ApplyLevel()
+    {
+        yield return new WaitForSeconds(1f);
+        GameObject.Find("PuzzleController").GetComponent<PuzzleController>().level = Level;
     }
 
     public void AddScore(int index)
