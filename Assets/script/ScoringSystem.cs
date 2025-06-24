@@ -12,6 +12,7 @@ public class ScoringSystem : MonoBehaviour
     public handlepause handlepause;
     public bool PuzzleEnabled;
     public TextMeshProUGUI ScoreText;
+    public GameObject Controller;
     
     // Start is called before the first frame update
     void Start()
@@ -27,6 +28,7 @@ public class ScoringSystem : MonoBehaviour
 
     private void OpenPuzzle()
     {
+        Controller.SetActive(false);
         handlepause.CloseDialogue();
         Camera MainCamera = Camera.main;
         if (MainCamera != null)
@@ -54,6 +56,7 @@ public class ScoringSystem : MonoBehaviour
             {
                 score++;
                 ScoreText.text = score.ToString() + "/" + savedData.lvlScores[Level].quizPoint.Length.ToString();
+                if (score<=savedData.lvlScores[Level].quizPoint.Length -1)SaveLoadData.JsonSave(savedData);
                 if (score==savedData.lvlScores[Level].quizPoint.Length)
                 {
                     OpenPuzzle();

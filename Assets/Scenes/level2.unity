@@ -2254,6 +2254,7 @@ MonoBehaviour:
   handlepause: {fileID: 928234808}
   PuzzleEnabled: 0
   ScoreText: {fileID: 1667211404}
+  Controller: {fileID: 549967850}
 --- !u!1 &1134247094
 GameObject:
   m_ObjectHideFlags: 0

@@ -9,9 +9,32 @@ public class selectionManager : MonoBehaviour
 {
     public SOsavedData gamedata;
     public GameObject buttonCollections;
+    public Button buttonReset;
     private Button[] buttons;
+    
 
     private void Start()
+    {
+        RefreshUI();
+        // buttonReset.onClick.AddListener(() => ResetData());
+    }
+
+    private void Awake()
+    {
+        SaveLoadData.JsonLoad(gamedata); //woi json
+        buttons = buttonCollections.GetComponentsInChildren<Button>();
+    }
+
+    public void ResetData()
+    {
+        Debug.Log("woi json");
+        SaveLoadData.ResetAll();
+        SaveLoadData.JsonLoad(gamedata);
+        SaveLoadData.JsonSave(gamedata);
+        RefreshUI();
+    }
+
+    private void RefreshUI()
     {
         for (int i = 0; i < gamedata.lvlScores.Count; i++)
         {
@@ -24,10 +47,5 @@ public class selectionManager : MonoBehaviour
                 buttons[0].interactable = true;
             }
         }
-    }
-
-    private void Awake()
-    {
-        buttons = buttonCollections.GetComponentsInChildren<Button>();
     }
 }
