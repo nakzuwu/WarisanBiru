@@ -1,0 +1,4095 @@
+fileFormatVersion: 2
+guid: 0d9c859e13c06f449adaa8065d1f6380
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2460.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ab89a2a94021944845e1d87a3b1558
+      internalID: -1541639323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2460.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef51a37eac62f744bb03f3a27c6a3ea
+      internalID: -91348743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2460.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8215cddaa40f545a79296fde615ca4
+      internalID: 2065179846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2460.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d86bf4045bbae44aa0f1400f220c3a0
+      internalID: -1979192419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2460.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed1acb024dd607449abfc510d954c7e
+      internalID: 1728513123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2460.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa949ec0f72bb0e448e8371c9109d4ff
+      internalID: 612952192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2376.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2767353bd47464c842601c22ffb308
+      internalID: -71953671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2376.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0dc779216758440b017d958ecede18
+      internalID: 2055887907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2376.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d1a4403ad470a439204aabcb4e39cc
+      internalID: -1189114600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2376.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d463398834d3094e9822a5fe5b1a678
+      internalID: 2079985560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2376.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370a346881386674f97f1451aac8a7bc
+      internalID: -1603336250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2376.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a33dee406c296045a30d0d5ec78c876
+      internalID: 1094385647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2292.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55c29e83f596ec4091989966d9b8a7f
+      internalID: 583347494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2292.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16531a518b3b32b48ae475359ec33fc7
+      internalID: -1423483188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2292.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eca0cab7072bb42b8a5654f0cb4924
+      internalID: -1351430778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2292.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8471287ed24fa47a000f4729ed5c06
+      internalID: -1757790559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2292.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae59e52c87ecef45a8c3a252f08df9b
+      internalID: -787533651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2292.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e6546fe4838e249b20f55230864560
+      internalID: 378294142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2208.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545b1bb8bd086f74b96c27c4b9dc620c
+      internalID: 1829282286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2208.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007caeb608615da4ab2fecb24bff949a
+      internalID: 2084973894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2208.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc617b80c280e547a6757decc23dee0
+      internalID: -924432570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2208.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7001f3bec39a7e4bb28136606b62723
+      internalID: 1103128794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2208.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca5d6ae3ea60044ba89967a336552ba
+      internalID: 841099659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2208.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7749d30de809d4c9928786f0a4c76c
+      internalID: -244765303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2124.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7fe4e6f0b46844681d9284e81acc80
+      internalID: 1184010271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2124.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1124ee4df96e31d4880a7c9aacbcb9fd
+      internalID: 2017130208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2124.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07131d6f8cd3db344a0fb2957c28a2e3
+      internalID: 793261643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2124.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0111ecacda08242478255ae6f37b4dd6
+      internalID: -514439431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2124.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6428f9677b141942bf064c7ba5659c1
+      internalID: -2025399316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2124.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c065e62efeb44fb40de9511294c2d
+      internalID: -1432203042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2040.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207ce79931d2d7943b6255ce877ffba0
+      internalID: 1563750902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2040.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de1b86dc2824bd40a79cef2887e3ad6
+      internalID: 62414257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2040.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e4e531528bdbc48991ed2c30656d0d
+      internalID: -2083319014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2040.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4e4ea6a998ade4c862720ed4c424a4
+      internalID: 1067420409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2040.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ac1078039e42a41ac650f292c15e49
+      internalID: -1916950984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2040.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d619710f4ef072c4b98c7e529f49bdcd
+      internalID: -946814189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1956.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83754493ef8813a4fbb2f2bd37d3abd6
+      internalID: -634106642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1956.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e797509fde6e74b98fa6eb4ff7ab5e
+      internalID: -459083012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1956.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4754b6e9e2b41194791d599538850bd9
+      internalID: -519472174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1956.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0648857fe6d4c147b4c11a60df4129f
+      internalID: 315145695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1956.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06f0fc6d7bbf324ebd48f88ae549639
+      internalID: -1344384936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1956.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb34cb0a130697499d38c2c76464b2a
+      internalID: -1648699557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1872.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ae064bd40a55942b7785dcae0d474c
+      internalID: 1063258245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1872.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de3b5063c640bb478f9f331fc3dc2c4
+      internalID: -880390712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1872.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe01f64d187015240970ebd2736b8227
+      internalID: -2072347371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1872.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9527c05feebeade4db6359925f92645b
+      internalID: 1427272543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1872.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873d7585ebef7b448b4114329b583bf0
+      internalID: -1660494233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1872.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e87c7a65545f4348af717002ef4f4a2
+      internalID: 1575416440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1788.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6674c3b7bfe8c9a42ab13aed208d8238
+      internalID: 2146465493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1788.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1906c0d7c371545b80af71ade6f5a7
+      internalID: -348253035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1788.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9172f7db4f34b524eb62bb2a8360cda2
+      internalID: 5859551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1788.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd10e39a181f4e0438ad1c9457fa6789
+      internalID: -1573611168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1788.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeacf4f96942974d83b36b2d2410538
+      internalID: -794125574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1788.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6297c6905dacd41bfa91f71975395b
+      internalID: 120839542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1704.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47fdf04a6e376049ac7eba6dcf99b96
+      internalID: 754106848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1704.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ece191191438be4f9a6848ac7ce131a
+      internalID: -1332861210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1704.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178f8de1e4a4f334493964dce1f62620
+      internalID: 1348909433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1704.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356ffc22c7ab77141bf03984b53cd1ce
+      internalID: 431338301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1704.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fba696e42380946b0c03589de8f998
+      internalID: -1523344020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1704.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7e3e8eba17d50468f94aa964dc8267
+      internalID: -2021294077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1620.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b8ad9a644cbcf41aaad61b95f9b437
+      internalID: -215137974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1620.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ec892843c3e624d95e2a9a81a52b6f
+      internalID: 2051072181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1620.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5be2acfe6837324b864ca854bd79c9e
+      internalID: 1859667594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1620.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4bcefe341d86e488c635a8d7eb2835
+      internalID: 607317895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1620.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2818cb23a80a19b4c9bbacb0efd6be48
+      internalID: 1958597410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1620.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f16dd5c1913f9540a68adb51df6375a
+      internalID: -1879621514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1536.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97f30b608ec56144a8f9bdb1155eba0
+      internalID: -1053740249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1536.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9417c5a8a53ddc943a0b704a09a87c34
+      internalID: -490046192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1536.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e398b19311b31c40ae7ceb888742651
+      internalID: 722916060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1536.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b482a1984e3543bcecbad4bbf1e43
+      internalID: 1892476260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1536.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfc3dda724ac954c8e64f48b7609c86
+      internalID: 1454780850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1536.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08c227487894814981413e7e98cdd9e
+      internalID: -2054803219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1452.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f17be7d3663d341b24b9be5a52d50c
+      internalID: 1141460373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1452.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81577bad6bf8eef4c93efc4e8b72ece2
+      internalID: -1493219814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1452.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829a45f0696a07f45a0165c2a9d77121
+      internalID: 910231389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1452.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1336c0e4b36fe4a8510cb643234e08
+      internalID: 114704441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1452.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0855b346bc7400148880fcb51fec71de
+      internalID: -748478870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1452.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cbb1b8516ac4f4caa1a7d0e4a5e568
+      internalID: 1753904184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1368.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27740072d7c0f146a9213929b9f8167
+      internalID: 1093076563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1368.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c31287c0b8d344fa8cd211fb2c349a
+      internalID: 1808277574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1368.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c9b04963f91f14a8d33340236540b3
+      internalID: -1841110687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1368.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36393a965aed7c40a37cd8caa5cd98d
+      internalID: -283408729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1368.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be587a946158bdc42895f851da36a7cc
+      internalID: 1116302806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1368.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee0e19f7bc6ab1479b2902c8faf50ef
+      internalID: -1409398804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1284.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4007615fd6ddec49a02cd9decc86884
+      internalID: 1018955896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1284.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca91eb89fee90ca42a7086a3aa67af69
+      internalID: -305068997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1284.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065e3a4481eea5e4797458ab272b6fbf
+      internalID: -658981583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1284.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990b831d89345dd47b4605d81726eb22
+      internalID: 1463717831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1284.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa67d289345ff154183e6d3aff0a4b63
+      internalID: -320473646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1284.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e39f1d648f87d840a4a93a14f754fc3
+      internalID: -1144619196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1200.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b856584dcadec34792deebf7e474e0b
+      internalID: -455060695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1200.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0198f9811a82345aff1055ab3042fd
+      internalID: -747520276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1200.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3350df3ec551fd4da34d0f2edcaaf7a
+      internalID: 263423573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1200.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0987da73722854dbd599cd30a07239
+      internalID: -228091119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1200.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7110fde2e0355b4a81109ff05556d9b
+      internalID: 972803074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1200.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7e8438f7eb6624db8ea428351052a5
+      internalID: 1444684975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1116.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0a9fe27ba5cc74f9fcaea37d98ab69
+      internalID: -154103414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1116.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6cf6f10a3e4ab4399e0481606e4003
+      internalID: -355652095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1116.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c22311ccd3504d8981ecc267a31b5
+      internalID: 1361505315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1116.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d402962281892429b5115d2f5790e2
+      internalID: 1862813753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1116.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd0ce1cc0d3e2847b30d0e852ec1d3d
+      internalID: -207632063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1116.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a49724ff3dcd7b40a1f21c0a9fca9a8
+      internalID: -1943041314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1032.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8663f7a8449c84e95f3930bd164433
+      internalID: 1351208894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1032.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a85f4ef5a28fb946a544ea13ee20c97
+      internalID: 1012917437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1032.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b815722cdf99541ab9371a6ba4f831
+      internalID: -1087568693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1032.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8988dba92d65042837c8f6fa7e86dc
+      internalID: -1638233413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1032.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1b3917d7e504d4db4c6bb11d3671b1
+      internalID: 1008041926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1032.1666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac5e0fce275d4140b4bf6ba86aca3f4
+      internalID: 563823975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 948.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e831579089e655245ba5ed0cd691d00a
+      internalID: -2098758422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 948.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671a8d318257f56418f21071a703db11
+      internalID: 432738601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 948.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab5966ec59b44249a8b0e21e45627e5
+      internalID: -831534085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 948.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3c4b23a61f0b44688f41cff5790abb
+      internalID: -1768423289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 948.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0ebabe8905c4345a454e2f855a5447
+      internalID: -643607586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 948.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d4a6daaae67ca4ebaecf023b9d29e3
+      internalID: 496728750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 864.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479936d4f08d6684287db67dc3a83c76
+      internalID: 596673717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 864.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc80a53a4c1c0049b7a5e0b49c33efb
+      internalID: 154166961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 864.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083f453bda88a7645a4a25fd744859cd
+      internalID: -1047268037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 864.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d93a49ffeebbe84fbb1940ee2cd6478
+      internalID: 476679934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 864.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2961e9d4a1a7af74fb8d9695513b3d7b
+      internalID: 1934639446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 864.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5518d19fd97b8074db2bcf8e0d8fe55b
+      internalID: 30476477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 780.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a0176c8bf6ab149961b4883c69c313
+      internalID: -34451064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 780.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbacf66f3ee9e64b9f05919fb324db0
+      internalID: -741978478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 780.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeffe69dd0212c45a4a2556463261e5
+      internalID: 618693474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 780.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6237ec28dd4f59546b9b9becd72f8a81
+      internalID: 161930448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 780.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9151d1bc52f8c49a3307a6295d1707
+      internalID: -910807020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 780.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0119c67e5c34d1c43a4c7e1455553455
+      internalID: 548162271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 696.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d708b134f51c24285adb408e356766
+      internalID: -215124134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 696.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4a206b055c3b349be18e9dac8ad6bf
+      internalID: 1734917579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 696.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecbaa2c236522144bb1dfe20cff277c
+      internalID: -1166146674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 696.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a50760109735fb48bb77254e728a2b7
+      internalID: 1530582473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 696.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49128aabf6459e43b9d4f7e3d53f859
+      internalID: -1482615560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 696.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940432debc385da419ef530fbaedd3c4
+      internalID: 197566240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 612.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b348fecebc092843bbb21c73f7b4ef8
+      internalID: -1287976151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 612.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605ed6e803c755542acf29ec3d9b5435
+      internalID: -1799794393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 612.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e7307494d933a4eaf7e936f011f632
+      internalID: 1630901934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 612.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72fc49cb6ed0224daa64e313bde27a3
+      internalID: -122317978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 612.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5199356ef4eb7df40a7f6111570d2f39
+      internalID: 753448155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 612.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91a87ee2ca18a94893cd35cf64410a2
+      internalID: 1380014535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 528.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5287219f37d105342b3df04c92d78de9
+      internalID: -1026678447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 528.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe947e8abae548044b5cbdbdd63b765d
+      internalID: 1286605377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 528.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33111cf66248c53448a2f47e3dab41b4
+      internalID: -1273832842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 528.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d65bab947c4ef43ae22eb07002ec29
+      internalID: 1156663710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 528.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4a58f25601e8649a2f9aa119cc8fe3
+      internalID: 1059450604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 528.1667
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9445cffe1e57707418ae8209a0f671fc
+      internalID: 789678603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 444.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84bc350bc7c9544dacc58523fa3a804
+      internalID: 2080885784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 444.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bba2337e832b47419095dab96d079ae
+      internalID: 1933423149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 444.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d877b185493c447875658843317a7e
+      internalID: 2081059184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 444.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7296b10a93ca91e43a02bcc718b1bd1d
+      internalID: 1372376740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 444.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5050c7af40ac6d45b406ae9a90cbf7a
+      internalID: 1803415302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 444.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53840d69e0cc3a04cb0064b8a172ed6d
+      internalID: -1772090023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 360.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb3d7e83e75b754fbe50385c4765baf
+      internalID: -998286776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 360.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e1b1f638ede984faaf09540d4ee75a
+      internalID: 1317175219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 360.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c0a2a88ee40dc4d8d0e24b0506f4ea
+      internalID: -1563515634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 360.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180a9809e793f4a4e83c40d974cd9ccf
+      internalID: -133418814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 360.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac8d813bcc51bb47a84a9210f33402c
+      internalID: -21114861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 360.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daf314dcc13c004a95806879b53aaec
+      internalID: -648494583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 276.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2becaeb60bf87474a9b079983f13e3e2
+      internalID: 1085044795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 276.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2969671e1ce3f4a9c8954ee5d93294
+      internalID: -1755851682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 276.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1bd29214210e04484e8c0ce9a51c62
+      internalID: -1789480031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 276.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa0d0d3f885da409ce5acb4cef7d28
+      internalID: 765493028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 276.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c235acae42f0af47bb691516f69e736
+      internalID: 1384074014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 276.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33183c23cb3e0b94bafa119619da6e0b
+      internalID: -1278513627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fed9bf1975ade248aa4acc1462a9a19
+      internalID: 1402508034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 192.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf0fafa50ccaa94892256f34033fe6e
+      internalID: -1776833179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 192.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf30809bff4e2474ab215742e2d54c94
+      internalID: 1299380508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 192.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310f94eec4bfea546bd1d2eb6d0a1866
+      internalID: 2000964451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 192.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9160a6de03ad2f1468bc199a05ce2479
+      internalID: 238184155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 192.16666
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c62ebb1f199ee8419b09ab151a57ba3
+      internalID: -446454924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 108.166664
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12893f914f335b479a9520c106689ea
+      internalID: -1938989310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 108.166664
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d886a175e2b2954e84287f64235ebf1
+      internalID: -1641748558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 108.166664
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde0981d6d833a24d9da871e6643ed70
+      internalID: -166578742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 108.166664
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9183ec341ff3c024d89aef22c2f87226
+      internalID: -288985927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 108.166664
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2760b6b8033999a47ae366ab0368e674
+      internalID: -1941984095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 108.166664
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d881036378b09f2498110cefe6926841
+      internalID: 850820029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 24.166664
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3df103aafd7de4c922bddc5fa1f05f
+      internalID: -1715422666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 24.166664
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36bb82fbb8f1e74fbc7e795eabd6daf
+      internalID: -77686843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 24.166664
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a813d20fcafbe4691ad5062cc0e809
+      internalID: -1498587848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 24.166664
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f166a6ff4439a3d41bf2e1f72283e3b4
+      internalID: -1249381456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 24.166664
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180832c22bf72dc4d93c0f3ee7d89921
+      internalID: 843215016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock Pile - Spritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 24.166664
+        width: 84.166664
+        height: 84.833336
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6bfe3c5b35425478be14146d6f5aaf
+      internalID: 1185078178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Rock Pile - Spritesheet_0: -1541639323
+      Rock Pile - Spritesheet_1: -91348743
+      Rock Pile - Spritesheet_10: -1603336250
+      Rock Pile - Spritesheet_100: -207632063
+      Rock Pile - Spritesheet_101: -1943041314
+      Rock Pile - Spritesheet_102: 1351208894
+      Rock Pile - Spritesheet_103: 1012917437
+      Rock Pile - Spritesheet_104: -1087568693
+      Rock Pile - Spritesheet_105: -1638233413
+      Rock Pile - Spritesheet_106: 1008041926
+      Rock Pile - Spritesheet_107: 563823975
+      Rock Pile - Spritesheet_108: -2098758422
+      Rock Pile - Spritesheet_109: 432738601
+      Rock Pile - Spritesheet_11: 1094385647
+      Rock Pile - Spritesheet_110: -831534085
+      Rock Pile - Spritesheet_111: -1768423289
+      Rock Pile - Spritesheet_112: -643607586
+      Rock Pile - Spritesheet_113: 496728750
+      Rock Pile - Spritesheet_114: 596673717
+      Rock Pile - Spritesheet_115: 154166961
+      Rock Pile - Spritesheet_116: -1047268037
+      Rock Pile - Spritesheet_117: 476679934
+      Rock Pile - Spritesheet_118: 1934639446
+      Rock Pile - Spritesheet_119: 30476477
+      Rock Pile - Spritesheet_12: 583347494
+      Rock Pile - Spritesheet_120: -34451064
+      Rock Pile - Spritesheet_121: -741978478
+      Rock Pile - Spritesheet_122: 618693474
+      Rock Pile - Spritesheet_123: 161930448
+      Rock Pile - Spritesheet_124: -910807020
+      Rock Pile - Spritesheet_125: 548162271
+      Rock Pile - Spritesheet_126: -215124134
+      Rock Pile - Spritesheet_127: 1734917579
+      Rock Pile - Spritesheet_128: -1166146674
+      Rock Pile - Spritesheet_129: 1530582473
+      Rock Pile - Spritesheet_13: -1423483188
+      Rock Pile - Spritesheet_130: -1482615560
+      Rock Pile - Spritesheet_131: 197566240
+      Rock Pile - Spritesheet_132: -1287976151
+      Rock Pile - Spritesheet_133: -1799794393
+      Rock Pile - Spritesheet_134: 1630901934
+      Rock Pile - Spritesheet_135: -122317978
+      Rock Pile - Spritesheet_136: 753448155
+      Rock Pile - Spritesheet_137: 1380014535
+      Rock Pile - Spritesheet_138: -1026678447
+      Rock Pile - Spritesheet_139: 1286605377
+      Rock Pile - Spritesheet_14: -1351430778
+      Rock Pile - Spritesheet_140: -1273832842
+      Rock Pile - Spritesheet_141: 1156663710
+      Rock Pile - Spritesheet_142: 1059450604
+      Rock Pile - Spritesheet_143: 789678603
+      Rock Pile - Spritesheet_144: 2080885784
+      Rock Pile - Spritesheet_145: 1933423149
+      Rock Pile - Spritesheet_146: 2081059184
+      Rock Pile - Spritesheet_147: 1372376740
+      Rock Pile - Spritesheet_148: 1803415302
+      Rock Pile - Spritesheet_149: -1772090023
+      Rock Pile - Spritesheet_15: -1757790559
+      Rock Pile - Spritesheet_150: -998286776
+      Rock Pile - Spritesheet_151: 1317175219
+      Rock Pile - Spritesheet_152: -1563515634
+      Rock Pile - Spritesheet_153: -133418814
+      Rock Pile - Spritesheet_154: -21114861
+      Rock Pile - Spritesheet_155: -648494583
+      Rock Pile - Spritesheet_156: 1085044795
+      Rock Pile - Spritesheet_157: -1755851682
+      Rock Pile - Spritesheet_158: -1789480031
+      Rock Pile - Spritesheet_159: 765493028
+      Rock Pile - Spritesheet_16: -787533651
+      Rock Pile - Spritesheet_160: 1384074014
+      Rock Pile - Spritesheet_161: -1278513627
+      Rock Pile - Spritesheet_162: 1402508034
+      Rock Pile - Spritesheet_163: -1776833179
+      Rock Pile - Spritesheet_164: 1299380508
+      Rock Pile - Spritesheet_165: 2000964451
+      Rock Pile - Spritesheet_166: 238184155
+      Rock Pile - Spritesheet_167: -446454924
+      Rock Pile - Spritesheet_168: -1938989310
+      Rock Pile - Spritesheet_169: -1641748558
+      Rock Pile - Spritesheet_17: 378294142
+      Rock Pile - Spritesheet_170: -166578742
+      Rock Pile - Spritesheet_171: -288985927
+      Rock Pile - Spritesheet_172: -1941984095
+      Rock Pile - Spritesheet_173: 850820029
+      Rock Pile - Spritesheet_174: -1715422666
+      Rock Pile - Spritesheet_175: -77686843
+      Rock Pile - Spritesheet_176: -1498587848
+      Rock Pile - Spritesheet_177: -1249381456
+      Rock Pile - Spritesheet_178: 843215016
+      Rock Pile - Spritesheet_179: 1185078178
+      Rock Pile - Spritesheet_18: 1829282286
+      Rock Pile - Spritesheet_19: 2084973894
+      Rock Pile - Spritesheet_2: 2065179846
+      Rock Pile - Spritesheet_20: -924432570
+      Rock Pile - Spritesheet_21: 1103128794
+      Rock Pile - Spritesheet_22: 841099659
+      Rock Pile - Spritesheet_23: -244765303
+      Rock Pile - Spritesheet_24: 1184010271
+      Rock Pile - Spritesheet_25: 2017130208
+      Rock Pile - Spritesheet_26: 793261643
+      Rock Pile - Spritesheet_27: -514439431
+      Rock Pile - Spritesheet_28: -2025399316
+      Rock Pile - Spritesheet_29: -1432203042
+      Rock Pile - Spritesheet_3: -1979192419
+      Rock Pile - Spritesheet_30: 1563750902
+      Rock Pile - Spritesheet_31: 62414257
+      Rock Pile - Spritesheet_32: -2083319014
+      Rock Pile - Spritesheet_33: 1067420409
+      Rock Pile - Spritesheet_34: -1916950984
+      Rock Pile - Spritesheet_35: -946814189
+      Rock Pile - Spritesheet_36: -634106642
+      Rock Pile - Spritesheet_37: -459083012
+      Rock Pile - Spritesheet_38: -519472174
+      Rock Pile - Spritesheet_39: 315145695
+      Rock Pile - Spritesheet_4: 1728513123
+      Rock Pile - Spritesheet_40: -1344384936
+      Rock Pile - Spritesheet_41: -1648699557
+      Rock Pile - Spritesheet_42: 1063258245
+      Rock Pile - Spritesheet_43: -880390712
+      Rock Pile - Spritesheet_44: -2072347371
+      Rock Pile - Spritesheet_45: 1427272543
+      Rock Pile - Spritesheet_46: -1660494233
+      Rock Pile - Spritesheet_47: 1575416440
+      Rock Pile - Spritesheet_48: 2146465493
+      Rock Pile - Spritesheet_49: -348253035
+      Rock Pile - Spritesheet_5: 612952192
+      Rock Pile - Spritesheet_50: 5859551
+      Rock Pile - Spritesheet_51: -1573611168
+      Rock Pile - Spritesheet_52: -794125574
+      Rock Pile - Spritesheet_53: 120839542
+      Rock Pile - Spritesheet_54: 754106848
+      Rock Pile - Spritesheet_55: -1332861210
+      Rock Pile - Spritesheet_56: 1348909433
+      Rock Pile - Spritesheet_57: 431338301
+      Rock Pile - Spritesheet_58: -1523344020
+      Rock Pile - Spritesheet_59: -2021294077
+      Rock Pile - Spritesheet_6: -71953671
+      Rock Pile - Spritesheet_60: -215137974
+      Rock Pile - Spritesheet_61: 2051072181
+      Rock Pile - Spritesheet_62: 1859667594
+      Rock Pile - Spritesheet_63: 607317895
+      Rock Pile - Spritesheet_64: 1958597410
+      Rock Pile - Spritesheet_65: -1879621514
+      Rock Pile - Spritesheet_66: -1053740249
+      Rock Pile - Spritesheet_67: -490046192
+      Rock Pile - Spritesheet_68: 722916060
+      Rock Pile - Spritesheet_69: 1892476260
+      Rock Pile - Spritesheet_7: 2055887907
+      Rock Pile - Spritesheet_70: 1454780850
+      Rock Pile - Spritesheet_71: -2054803219
+      Rock Pile - Spritesheet_72: 1141460373
+      Rock Pile - Spritesheet_73: -1493219814
+      Rock Pile - Spritesheet_74: 910231389
+      Rock Pile - Spritesheet_75: 114704441
+      Rock Pile - Spritesheet_76: -748478870
+      Rock Pile - Spritesheet_77: 1753904184
+      Rock Pile - Spritesheet_78: 1093076563
+      Rock Pile - Spritesheet_79: 1808277574
+      Rock Pile - Spritesheet_8: -1189114600
+      Rock Pile - Spritesheet_80: -1841110687
+      Rock Pile - Spritesheet_81: -283408729
+      Rock Pile - Spritesheet_82: 1116302806
+      Rock Pile - Spritesheet_83: -1409398804
+      Rock Pile - Spritesheet_84: 1018955896
+      Rock Pile - Spritesheet_85: -305068997
+      Rock Pile - Spritesheet_86: -658981583
+      Rock Pile - Spritesheet_87: 1463717831
+      Rock Pile - Spritesheet_88: -320473646
+      Rock Pile - Spritesheet_89: -1144619196
+      Rock Pile - Spritesheet_9: 2079985560
+      Rock Pile - Spritesheet_90: -455060695
+      Rock Pile - Spritesheet_91: -747520276
+      Rock Pile - Spritesheet_92: 263423573
+      Rock Pile - Spritesheet_93: -228091119
+      Rock Pile - Spritesheet_94: 972803074
+      Rock Pile - Spritesheet_95: 1444684975
+      Rock Pile - Spritesheet_96: -154103414
+      Rock Pile - Spritesheet_97: -355652095
+      Rock Pile - Spritesheet_98: 1361505315
+      Rock Pile - Spritesheet_99: 1862813753
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
