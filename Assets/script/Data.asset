@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::savedData
   lvlScores:
   - name: level1
-    isGameFinished: 0
-    quizPoint: 00000000
+    isGameFinished: 1
+    quizPoint: 01010101
   - name: level2
     isGameFinished: 0
     quizPoint: 00000000
